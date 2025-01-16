@@ -79,7 +79,6 @@ The app follows the **MVVM (Model-View-ViewModel)** architecture:
 - **Pagination**: Load more images as the user scrolls.
 - **Error Handling**: Improve error handling and display user-friendly messages.
 - **Caching**: Implement caching for offline support.
-- **Unit Tests**: Add more unit tests for ViewModel and repository.
 - **UI Enhancements**: Add animations and transitions for a better user experience.
 
 ---
